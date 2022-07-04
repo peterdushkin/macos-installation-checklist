@@ -6,7 +6,7 @@
   - [ ] diskutil partitionDisk /dev/disk4 1 JHFS+ Installer 100%
   - [ ] cd /Applications/Install\ macOS\ Monterey.app 
   - [ ] sudo ./Contents/Resources/createinstallmedia --volume /Volumes/Installer --nointeraction
-- [ ]
+- [ ] - Hold `Command` `Option` `P` `R` keys to [clear NVRAM](https://support.apple.com/en-us/HT204063)
 - [ ]
 - [ ]
 - [ ]
